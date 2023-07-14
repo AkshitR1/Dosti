@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dosti</string>
+    <string name="akshit_chetan_mangesh">Akshit, Chetan ,Mangesh</string>
+    <string name="welcome_n_back">Welcome \n Back</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="sign_n_up">Sign \n Up</string>
+    <string name="name">Name</string>
+    <string name="email_id">email</string>
+    <string name="pass">password</string>
+    <string name="Create_an_account">Create an Account</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

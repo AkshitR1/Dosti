@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "321709584536",
+    "project_id": "dosti-cfca3",
+    "storage_bucket": "dosti-cfca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321709584536:android:aad493f752ff435adf20ed",
+        "android_client_info": {
+          "package_name": "com.example.dosti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321709584536-oajq10sqeejrujb8ma2374pdjdi6jon6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzKtovtvFtL5F5yxTTD5jgITvEJEuuho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321709584536-oajq10sqeejrujb8ma2374pdjdi6jon6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321709584536:android:80b1a81c61a44ddcdf20ed",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321709584536-oajq10sqeejrujb8ma2374pdjdi6jon6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzKtovtvFtL5F5yxTTD5jgITvEJEuuho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321709584536-oajq10sqeejrujb8ma2374pdjdi6jon6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
